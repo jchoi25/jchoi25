@@ -1,4 +1,4 @@
-### Hi! I'm Juyoung <img src="https:://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width=30px">
+### Hi! I'm Juyoung <img src="https:://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
 **jchoi25/jchoi25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🏫 I am a sophomore studying Physics at UIUC. 
+- ⚙️ I daily use: `.js`, `.html`, `.css`
+- 😄 I've co-developed [UIUC Crime Map](https://police.illinois.edu/crime-reporting/daily-crime-log/map/)
