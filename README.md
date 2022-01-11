@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I'm Juyoung <img src="https:://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width=30px">
 
 <!--
 **jchoi25/jchoi25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
