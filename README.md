@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=jchoi25&color=84d9ff)
-
 - 🏫 I am a sophomore studying Physics at UIUC. 
 - ⚙️ I develop mostly in `.js`, `.html`, `.css`
 - 🌱 I’m currently learning Next JS
