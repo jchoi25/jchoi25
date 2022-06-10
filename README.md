@@ -22,5 +22,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Next JS
 - 😄 I've co-developed [UIUC Crime Map](https://police.illinois.edu/crime-reporting/daily-crime-log/map/)
 - 📫 Contact me: [juyoung7@illinois.edu](mailto:juyoung7@illinois.edu)
-
-[![jchoi25's GitHub stats](https://github-readme-stats.vercel.app/api?username=jchoi25&show_icons=true&theme=tokyonight)](https://github.com/jchoi25/github-readme-stats)
