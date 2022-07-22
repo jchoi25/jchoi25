@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏫 I am a sophomore studying Physics at UIUC. 
+- 🏫 I am a junior studying Computer Science and Astronomy at UIUC. 
 - ⚙️ I develop mostly in `.js`, `.html`, `.css`
 - 🌱 I’m currently learning Next JS
 - 😄 I've co-developed [UIUC Crime Map](https://police.illinois.edu/crime-reporting/daily-crime-log/map/)
