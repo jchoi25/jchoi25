@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 - 🏫 I am a junior studying Computer Science and Astronomy at UIUC. 
 - ⚙️ I develop mostly in `.js`, `.html`, `.css`
-- 🌱 I’m currently learning Next JS
+- 🌱 I’m currently learning Next.JS
+- ✨ I've interned at [National Center for Supercomputing Applications](https://www.ncsa.illinois.edu/)
 - 😄 I've co-developed [UIUC Crime Map](https://police.illinois.edu/crime-reporting/daily-crime-log/map/)
 - 📫 Contact me: [juyoung7@illinois.edu](mailto:juyoung7@illinois.edu)
