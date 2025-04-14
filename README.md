@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏫 I am a junior studying Computer Science and Astronomy at UIUC. 
-- ⚙️ I develop mostly in `.js`, `.html`, `.css`
-- 🌱 I’m currently learning full stack web development
+- 🏫 I am a junior studying Computer Science and Astronomy at UIUC, currently on a leave of absense and in Korea. 
+- ⚙️ I develop mostly in `.js`, `.html`, `.css`, `.py`
+- 🔭 I’m currently developing trading algorithms and a personal blog.
+- 🌱 I've interned at [Dacon AI](https://dacon.io/)
 - ✨ I've interned at [National Center for Supercomputing Applications](https://www.ncsa.illinois.edu/)
 - 😄 I've co-developed [UIUC Crime Map](https://police.illinois.edu/crime-reporting/daily-crime-log/map/)
-- 📫 Contact me: [juyoung7@illinois.edu](mailto:juyoung7@illinois.edu)
+- 📫 Contact me: [juyoung7758@gmail.com](mailto:juyoung7758@gmail.com)
