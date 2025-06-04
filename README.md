@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🏫 I am a junior studying Computer Science and Astronomy at UIUC, currently on a leave of absense and in Korea. 
 - ⚙️ I develop mostly in `.js`, `.html`, `.css`, `.py`
-- 🔭 I’m currently developing a trading algorithm: details to come!
+- 🔭 I’m currently developing a trading algorithm: more details to come!
 - 🌱 I've interned at [Dacon AI](https://dacon.io/)
 - ✨ I've interned at [National Center for Supercomputing Applications](https://www.ncsa.illinois.edu/)
 - 😄 I've co-developed [UIUC Crime Map](https://police.illinois.edu/crime-reporting/daily-crime-log/map/)
