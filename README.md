@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏫 I am a junior studying Computer Science + Astronomy at UIUC, currently on a leave of absense.
+- 🏫 I am a junior studying Computer Science + Astronomy at UIUC, currently on a leave of absence.
 - 💻 I am open to work while I am in Korea before I return to school!
 - ⚙️ I develop mostly in `.js`, `.html`, `.css`, `.py`
 - 🔭 I’m currently developing a trading algorithm: more details to come!
